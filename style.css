@@ -85,3 +85,34 @@ h2 {
   color: white;
   padding: 10px;
 }
+
+.section-4 img {
+  margin-top: -25px;
+  cursor: pointer;
+}
+
+.styling-list {
+  color: #919496;
+  font-weight: 700;
+  font-size: small;
+}
+
+.styling :hover {
+  color: #1db954;
+  cursor: pointer;
+}
+
+.styling-icons {
+  background-color: #222326;
+  padding: 15px;
+  color: white;
+  font-weight: 600;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.styling-icons:hover {
+  color: #1db954;
+  cursor: pointer;
+}
