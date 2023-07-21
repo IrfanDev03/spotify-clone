@@ -1,0 +1,87 @@
+nav {
+  height: 78px;
+}
+
+.nav-links a {
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+.nav-links a:hover {
+  color: #1eba55;
+}
+
+/* starting main body styling */
+
+.section-1 {
+  background-color: #19e68c;
+  padding: 50px;
+}
+
+.section-1-img {
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+p {
+  font-weight: 500;
+  margin-top: 28px;
+}
+
+button {
+  width: 15%;
+  font-size: smaller;
+  background-color: white;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+button:hover {
+  background-color: rgb(249, 249, 249);
+  font-size: small;
+}
+
+.section-2 {
+  margin-top: 72px;
+  margin-bottom: 72px;
+}
+
+h3 {
+  font-weight: 800;
+  font-size: xx-large;
+}
+
+.section-3 {
+  background-color: #222326;
+  padding: 5px;
+}
+
+.section-3-img {
+  margin-top: 70px;
+  height: 190px;
+}
+
+h2 {
+  color: white;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.section-3 a {
+  color: #1db954;
+}
+
+.section-3 a:hover {
+  color: #19e68c;
+}
+
+.section-4 {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
